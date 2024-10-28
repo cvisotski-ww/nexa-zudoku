@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: linux
+    runs-on: macos-13
 
     strategy:
       matrix:
